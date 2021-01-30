@@ -9,3 +9,7 @@ AND
 paste clear.exe file into
 C:\Windows\System32
 to enjoy clear command of linux in windows.
+# windows clear
+# linux cls
+# c++
+# console clear
